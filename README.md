@@ -61,6 +61,8 @@
 
 <img align="left" alt="alexderib28 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexderib28&show_icons=true&hide_border=true" />
 
+---
+
 [website]: https://www.wingsit.com.br/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
