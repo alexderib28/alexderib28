@@ -1,6 +1,6 @@
-### Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
+## Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
 
-## I'm Developer, Data Analyst and Consultant Intelligence Business!
+### I'm Developer, Data Analyst and Consultant Intelligence Business!
 - 🔭 I’m currently working on a [Wings IT Solutions][linkedin]!
 - 🌱 I am currently learning about aritifical Intelligence and also CRM Salesforce 🤣
 - 👯 I’m looking to collaborate with other data specialists and also Salesforce
