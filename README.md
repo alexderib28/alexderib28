@@ -1,6 +1,6 @@
 ### Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
 
-## I'm Developer, Data Driven and Consultant Data Analyst!
+## I'm Developer, Data Analyst and Consultant Intelligence Business!
 - 🔭 I’m currently working on a [Wings IT Solutions][linkedin]!
 - 🌱 I am currently learning about aritifical Intelligence and also CRM Salesforce 🤣
 - 👯 I’m looking to collaborate with other data specialists and also Salesforce
@@ -32,7 +32,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
 <br />
 
 ---
