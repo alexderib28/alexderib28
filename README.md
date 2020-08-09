@@ -5,7 +5,9 @@
 - 🌱 I am currently learning about aritifical Intelligence and also CRM Salesforce 🤣
 - 👯 I’m looking to collaborate with other data specialists and also Salesforce
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love reading books and walking in the park / beach### Connect with me:
+- ⚡ Fun fact: I love reading books and walking in the park / beach
+
+### Connect with me:
 
 [<img align="left" alt="Alexandre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alexandre | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
