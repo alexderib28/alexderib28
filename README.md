@@ -1,4 +1,4 @@
-### Hi there, I'm [Alexandre Barbosa!][website] 👋
+### Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][linkedin]!
