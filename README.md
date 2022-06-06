@@ -1,10 +1,10 @@
 ## Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
 
 ### I'm Developer and Data Analyst
-- 🔭 I’m currently working on a [Wings IT Solutions][linkedin]!
+- 🔭 I’m currently working on a [Accenture do Brasil Ltda.][linkedin]!
 - 🌱 I am currently learning about aritifical Intelligence and also CRM Salesforce
 - 👯 I’m looking to collaborate with other data specialists and also Salesforce
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading books and walking in the park / beach
 
 ### Connect with me:
