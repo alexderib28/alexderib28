@@ -1,7 +1,7 @@
 ## Hi there, I'm [Alexandre Barbosa!][linkedin] 👋
 
 ### I'm Developer and Data Analyst
-- 🔭 I’m currently working on a [Accenture do Brasil Ltda.][linkedin]!
+- 🔭 I’m currently working on [Accenture do Brasil Ltda.][linkedin]!
 - 🌱 I am currently learning about aritifical Intelligence and also CRM Salesforce
 - 👯 I’m looking to collaborate with other data specialists and also Salesforce
 - 🥅 2022 Goals: Contribute more to Open Source projects
